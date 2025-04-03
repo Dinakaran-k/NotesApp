@@ -1,4 +1,4 @@
-# Notes App with Room Database
+# Notes App with SQLite Database
 
 This is a simple Notes application built using Kotlin and SQLite Database.
 
