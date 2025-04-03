@@ -8,9 +8,6 @@ This is a simple Notes application built using Kotlin and SQLite Database.
 - Persistent storage using Room Database
 - User-friendly interface
 
-## Git Diagram
-
-
 ## Getting Started
 
 ### Prerequisites
